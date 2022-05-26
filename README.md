@@ -1,2 +1,2 @@
 # Musify-Project
-Haven't started coding yet going throgh content
+Haven't started coding yet going through content
