@@ -22,16 +22,17 @@ Melody generation using RNN-LSTM
 ## Methodology
 Follow the steps and compose music using AI
 
-* STEP 1 : Download the files from the repository by clicking on Code button
-* STEP 2 : Install Libraries using pip command (In Anaconda Prompt)
-* STEP 3 : Open code.ipynb file using Jupyter Notebook / Visual Studio Code
-* STEP 4 : Run all the cells one by one and check the output
-* STEP 5 : Wait for the model training as it takes about 7-8 hours
+* STEP 1 : Download data files from repository
+* STEP 3 : Open the given code file in google colab
+* STEP 4 : Upload the All midi files folder in zip format to colab
+* STEP 4 : Change the file path directories accordingly
+* STEP 4 : Enable GPT computing from notebook setting in colab
+* STEP 5 : Execute code and Wait for the model training
 * STEP 6 : Run the last cell and a file named as AI_composed_music.mid will be saved
 * STEP 7 : Play the file AI_composed_music.mid You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
 ## Acknowledgements
-
- - [music generation](https://github.com/musikalkemist/generating-melodies-with-rnn-lstm)
+- [music generation](https://github.com/abhijit-kr/MUSIFY---Music-Composition-using-AI)
+ - [melody generation](https://github.com/musikalkemist/generating-melodies-with-rnn-lstm)
  
 
 ## Authors
