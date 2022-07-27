@@ -18,7 +18,15 @@ Melody generation using RNN-LSTM
 * MOD/ : This directory contains optimizer, metrics, and weights of our trained model.
 * AI_composed_music.mid : This is a music file of predicted notes.
 
-
+## Work Flow
+* Week 1 Brushing up basic python concepts
+* Week 2 Started with reading relevant articles on music generation
+* Week 3 Neural network and relevant concepts of deep learning
+* Week 4 Started Learning Tensor flow
+* Week 5 Tinkering with tensor flow and RNN LSTM
+* Week 6 Implementation part started
+* Week 7 model training and building
+* Week 8 Submission documentation and repo
 ## Methodology
 Follow the steps and compose music using AI
 
@@ -29,7 +37,7 @@ Follow the steps and compose music using AI
 * STEP 4 : Enable GPT computing from notebook setting in colab
 * STEP 5 : Execute code and Wait for the model training
 * STEP 6 : Run the last cell and a file named as AI_composed_music.mid will be saved
-* STEP 7 : Play the file AI_composed_music.mid You have composed your own music by using AI. Some of the parameters can be tweaked in the code for different results.
+* STEP 7 : Play the file AI_composed_music.mid 
 ## Acknowledgements
 - [music generation](https://github.com/abhijit-kr/MUSIFY---Music-Composition-using-AI)
  - [melody generation](https://github.com/musikalkemist/generating-melodies-with-rnn-lstm)
