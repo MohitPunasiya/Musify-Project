@@ -14,9 +14,10 @@ Melody generation using RNN-LSTM
 * Dataset : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
 ## File Structure
 * All Midi Files/ : This is the dataset folder containing various midi files of different composers.
-* code.ipynb : In this file, we will build, train and test our model.
+* code_musify.ipynb : In this file, we will build, train and test our model.
 * MOD/ : This directory contains optimizer, metrics, and weights of our trained model.
-* AI_composed_music.mid : This is a music file of predicted notes.
+* AI_music.mid : This is a music file of predicted notes.
+* AI_music.mp3 : mp3 file conversion of AI_music.mid
 
 ## Work Flow
 * Week 1 Brushing up basic python concepts
